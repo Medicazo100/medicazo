@@ -1,0 +1,5 @@
+{
+  "name": "Calculadoras y Fórmulas Medicas",
+  "description": "Una app interactiva para sugerir y utilizar calculadoras médicas basadas en diagnósticos de patologías, utilizando IA para proporcionar interpretaciones clínicas actualizadas. Creada para fines de enseñanza médica.",
+  "requestFramePermissions": []
+}
